@@ -3,3 +3,7 @@
 .github
 __pycache__
 *.pyc
+train.ipynb
+*.md
+.env
+.env.local
