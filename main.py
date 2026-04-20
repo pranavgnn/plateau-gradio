@@ -21,7 +21,7 @@ def main():
         "1. Pranav G Nayak - 230958011<br>"
         "2. Aprameya Srinivasan Tatachari - 230958006<br>"
         "3. Roselin Maria T J - 230958032<br>"
-        "4. Dhruva Deepak - 230958048<br><br>"
+        "4. Dhruva Deepak - 230958068<br><br>"
         "<b>Submitted to:</b><br>"
         "Prof. Dr. Srikanth Prabhu<br>"
         "Professor of Machine Learning and Deep Learning<br><br>"

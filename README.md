@@ -81,7 +81,7 @@ The pipeline builds a new Docker image utilizing caching mechanisms and pushes i
 | Pranav G Nayak                | 230958011           |
 | Aprameya Srinivasan Tatachari | 230958006           |
 | Roselin Maria T J             | 230958032           |
-| Dhruva Deepak                 | 230958048           |
+| Dhruva Deepak                 | 230958068           |
 
 <br>
 
