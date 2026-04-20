@@ -4,6 +4,7 @@ COPY --from=ghcr.io/astral-sh/uv:latest /uv /bin/uv
 
 WORKDIR /app
 
+ENV UV_LINK_MODE=copy
 ENV UV_COMPILE_BYTECODE=1
 
 COPY pyproject.toml uv.lock ./
@@ -21,6 +22,7 @@ WORKDIR /app
 
 COPY --from=builder /app/.venv /app/.venv
 
+COPY weights.pt .
 COPY main.py .
 
 ENV PATH="/app/.venv/bin:$PATH" \
